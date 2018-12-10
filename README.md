@@ -22,4 +22,5 @@
 
 ## その他
 
-[iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)   Apple製品の画面サイズなど
+[iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)   
+Apple製品の画面サイズなど
